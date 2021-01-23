@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\ModelStructure.dll
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfo.cs
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\DataContext.deps.json
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.json
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.dev.json
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\DataContext.dll
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\DataContext.pdb
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\bin\Debug\netcoreapp3.1\ModelStructure.pdb
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.csproj.CopyComplete
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.dll
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.pdb
+C:\Users\User\Desktop\CarProject\CarsProject\DataContext\obj\Debug\netcoreapp3.1\DataContext.genruntimeconfig.cache
